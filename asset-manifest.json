@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/StephCurryReact/static/css/main.2dc04135.css",
+    "main.js": "/StephCurryReact/static/js/main.e3cb5f77.js",
+    "static/js/787.235e0c34.chunk.js": "/StephCurryReact/static/js/787.235e0c34.chunk.js",
+    "static/media/Curry.jpg": "/StephCurryReact/static/media/Curry.23e04d723f6ea9a9cd3e.jpg",
+    "static/media/goldenStateWarriors.jpg": "/StephCurryReact/static/media/goldenStateWarriors.b1b0ede75b70d9f05b2c.jpg",
+    "index.html": "/StephCurryReact/index.html",
+    "main.2dc04135.css.map": "/StephCurryReact/static/css/main.2dc04135.css.map",
+    "main.e3cb5f77.js.map": "/StephCurryReact/static/js/main.e3cb5f77.js.map",
+    "787.235e0c34.chunk.js.map": "/StephCurryReact/static/js/787.235e0c34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dc04135.css",
+    "static/js/main.e3cb5f77.js"
+  ]
+}
