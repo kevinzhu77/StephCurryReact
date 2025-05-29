@@ -11,14 +11,14 @@ body {
 
 /* HEADER */
 
-.header {
+/*.header {
   display: flex;
   align-items: center;
   margin-right: auto;
   background-color: black;
   box-shadow: whitesmoke 2px 2px 5px;
   height: 125px;
-}
+} */
 
 .header-logo {
   height: 125px;
