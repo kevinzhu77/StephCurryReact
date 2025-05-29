@@ -11,14 +11,14 @@ body {
 
 /* HEADER */
 
-/*.header {
+.header {
   display: flex;
   align-items: center;
   margin-right: auto;
   background-color: black;
   box-shadow: whitesmoke 2px 2px 5px;
   height: 125px;
-} */
+} 
 
 .header-logo {
   height: 125px;
@@ -29,7 +29,7 @@ body {
 .header-heading {
   color: white;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  /*font-size: 20px; */
+  font-size: 20px;
   margin-right: 450px;
 }
 
@@ -38,7 +38,7 @@ button {
   color: blue;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-align: center;
-  /* font-size: 5px; */
+  font-size: 5px;
   padding: 15px 15px;
 }
 
